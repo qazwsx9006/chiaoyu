@@ -1,0 +1,23 @@
+.timeLine li h4{
+	width: 60%;
+}
+.timeLine li:nth-child(2n+2) h4:after{
+	left: 10px;
+	top: 24px;
+}
+.timeLine li:nth-child(2n+3) h4:after{
+	right: 10px;
+	top: 24px;
+}
+.timeLine li:nth-child(2n+2) p:before{
+	border-width: 10px 20px;
+}
+.timeLine li:nth-child(2n+3) p:before{
+	border-width: 10px 20px;
+}
+.timeLine li:nth-child(2n+2) p{
+	padding: 10px 5px;
+}
+.timeLine li:nth-child(2n+3) p{
+	padding: 10px 5px;
+}
