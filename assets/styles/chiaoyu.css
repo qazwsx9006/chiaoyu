@@ -53,3 +53,13 @@
 .social .box{
   vertical-align: middle;
 }
+.portfolio .filter{
+  background: #ccdbf1;
+}
+
+.portfolio .filter li:hover, .portfolio .filter .active{
+  background: #4676b2;
+}
+.share .description{
+  background: #ccdbf1;
+}
