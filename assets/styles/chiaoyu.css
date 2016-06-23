@@ -67,3 +67,10 @@
 .works .part2 h5, .works li:hover .part2 h5{
   border-radius: 10px;
 }
+
+.blog h3{
+  background: #337ab7;
+}
+.blog h3:after{
+  background: #2e6da4;
+}
